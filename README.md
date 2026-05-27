@@ -70,6 +70,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 ## Developed By:
 **Name:** Hoshini S
+
 **Register No:** 2305003006
 
 ## Program:
